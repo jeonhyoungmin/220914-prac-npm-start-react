@@ -1,0 +1,23 @@
+{
+  "name": "220914-prac-npm-start-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonhyoungmin/220914-prac-npm-start-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeonhyoungmin/220914-prac-npm-start-react/issues"
+  },
+  "homepage": "https://github.com/jeonhyoungmin/220914-prac-npm-start-react#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "reactnative": "^0.0.0"
+  }
+}
